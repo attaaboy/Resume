@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'bootstrap-icons';
+    src: url('../fonts/bootstrap-icons.woff'), url('../fonts/bootstrap-icons.woff2');
+}
+
+h2 {
+    color: #413f6c;
+}
+
+h3 {
+    color: rgb(211, 187, 235);
+}
+
+.aside {
+    background-color: #e3928b;
+}
+
+h4 {
+    color: beige;
+}
+
+p {
+    color: #413f6c;
+    font-weight: 700;
+}
+
+.principal {
+    background-color: beige;
+}
+
+.principal h4 {
+    color: #e3928b;
+}
+
+.imagecv {
+    background-color: #413f6c;
+}
+
+img {
+    border: 2px solid #e3928b;
+}
+
+li {
+    text-decoration: none;
+}
+
+.exp ul li {
+    color: #413f6c;
+}
+
+.exp h5 {
+    color: #413f6c;
+}
+
+.skillslist li {
+    color: #413f6c;
+}
+
+i {
+    color: #413f6c;
+}
+
+.formation h5 {
+    color: #413f6c;
+    font-weight: 700;
+}
+
+.espagnol {
+    color: #a0a6d9;
+}
